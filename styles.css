@@ -2,7 +2,6 @@ body {
     font-family: monospace, sans-serif;
     background-color: black;
     color: white;
-    margin: auto;
 }
 
 img {
@@ -13,6 +12,7 @@ img {
 .text {
     font-size: 20px;
     text-align: justify;
+    padding-right: 60px;
 }
 h1 {
     text-align: center;
