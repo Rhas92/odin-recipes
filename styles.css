@@ -1,17 +1,15 @@
+* {
+    border: 2px solid red;
+    margin: auto;
+    box-sizing: border-box;
+  }
 body {
     font-family: monospace, sans-serif;
     background-color: black;
     color: white;
 }
-
-img {
-    height: auto;
-    width: 700px;
-}
-
 .text {
     font-size: 20px;
-    margin-right: auto;
 }
 h1 {
     text-align: center;
