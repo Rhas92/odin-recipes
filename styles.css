@@ -11,8 +11,7 @@ img {
 
 .text {
     font-size: 20px;
-    text-align: justify;
-    padding-right: 60px;
+    margin-right: auto;
 }
 h1 {
     text-align: center;
