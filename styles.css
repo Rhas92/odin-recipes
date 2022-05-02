@@ -1,7 +1,8 @@
 * {
-    border: 2px solid red;
     margin: auto;
     box-sizing: border-box;
+    height: fit-content;
+    width: fit-content;
   }
 body {
     font-family: monospace, sans-serif;
