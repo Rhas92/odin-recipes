@@ -1,11 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps&display=swap');
 * {
     box-sizing: border-box;
     text-align: left;
     margin:10px;
     padding: 5px;
-}
-body {
-    font-family: monospace, sans-serif;
+    font-family: "Oleo Script Swash Caps", sans-serif;
     background-color: black;
     color: white;
 }
